@@ -1,5 +1,5 @@
 package telran.util;
-
+    
 import java.util.Iterator;
 import java.util.function.Predicate;
 
